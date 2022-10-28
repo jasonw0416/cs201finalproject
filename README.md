@@ -23,3 +23,5 @@ At the moment, we are using almost all the recent versions for everything: openj
 Alternative idea that I have is MySQL + React (or it can be normal HTML/CSS/JS) + WebSocket + Java (<-- normal one we learned in class)
 
 In this option, creating connection between client and server will be more confusing, and more programmings may be required in the server. However, the implementation in Java may be more familiar to what we have done in class, which is better.
+
+This alternative option is NO LONGER POSSIBLE. JavaScript uses Websocket, and Java ServerSocket that we learned uses TCP Socket. These two sockets cannot communicate with each other, and there is no TCP Socket built with JavaScript at this moment. Therefore, we must go with Java Spring Boot for the easiest solution.
