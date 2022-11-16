@@ -1,0 +1,1477 @@
+[
+  {
+    "ClssID": "ACAD-309g",
+    "Professor": "Doug Thomas",
+    "Category": "A"
+  },
+  {
+    "ClssID": "ACAD-324g",
+    "Professor": "Lisa Krohn",
+    "Category": "A"
+  },
+  {
+    "ClssID": "AHIS-121gp",
+    "Professor": "Samantha Burton",
+    "Category": "A"
+  },
+  {
+    "ClssID": "AHIS-125gp",
+    "Professor": "Yoonah Hwang",
+    "Category": "A"
+  },
+  {
+    "ClssID": "AHIS-128gp",
+    "Professor": "Daniela Bleichmar",
+    "Category": "A"
+  },
+  {
+    "ClssID": "AHIS-250mg",
+    "Professor": "Samantha Burton",
+    "Category": "A"
+  },
+  {
+    "ClssID": "AHIS-373g",
+    "Professor": "Monica Bravo",
+    "Category": "A"
+  },
+  {
+    "ClssID": "AMST-325gw",
+    "Professor": "Evelyn Alsultany",
+    "Category": "A"
+  },
+  {
+    "ClssID": "ARCH-214Ag",
+    "Professor": "Erik Carver",
+    "Category": "A"
+  },
+  {
+    "ClssID": "ART-141xg",
+    "Professor": "Paul Donald",
+    "Category": "A"
+  },
+  {
+    "ClssID": "CRIT-150gp",
+    "Professor": " ",
+    "Category": "A"
+  },
+  {
+    "ClssID": "CTAN-200g",
+    "Professor": "Tom Sito",
+    "Category": "A"
+  },
+  {
+    "ClssID": "CTCS-190g",
+    "Professor": "George Carstocea",
+    "Category": "A"
+  },
+  {
+    "ClssID": "CTCS-192mg",
+    "Professor": "Manouchka Labouba",
+    "Category": "A"
+  },
+  {
+    "ClssID": "DANC-212g",
+    "Professor": "Saleemah Knight",
+    "Category": "A"
+  },
+  {
+    "ClssID": "DANC-280g",
+    "Professor": "Patrick Corbin",
+    "Category": "A"
+  },
+  {
+    "ClssID": "DANC-302g",
+    "Professor": "Dante Rose",
+    "Category": "A"
+  },
+  {
+    "ClssID": "DANC-312gw",
+    "Professor": "E.Moncell Durden",
+    "Category": "A"
+  },
+  {
+    "ClssID": "DANC-333gw",
+    "Professor": "Jason Rodgers",
+    "Category": "A"
+  },
+  {
+    "ClssID": "DANC-363g",
+    "Professor": "Dawn Stoppiello",
+    "Category": "A"
+  },
+  {
+    "ClssID": "DES-123xg",
+    "Professor": "Charla Elizabeth",
+    "Category": "A"
+  },
+  {
+    "ClssID": "DES-323g",
+    "Professor": "Jason Ellenburg",
+    "Category": "A"
+  },
+  {
+    "ClssID": "FREN-320g",
+    "Professor": "Jennifer Wild",
+    "Category": "A"
+  },
+  {
+    "ClssID": "GESM-110g",
+    "Professor": "Mark Marino",
+    "Category": "A"
+  },
+  {
+    "ClssID": "GESM-111g",
+    "Professor": "Scott Spencer",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUJZ-350g",
+    "Professor": "Nathaniel Sloan",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUSC-102gw",
+    "Professor": "Leon Garcia Corona",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUSC-115gp",
+    "Professor": "Rotem Gilbert",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUSC-200mgw",
+    "Professor": "Karen Parks",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUSC-210g",
+    "Professor": "Sean Nye",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUSC-250mgw",
+    "Professor": "Ron Mc Curdy",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUSC-320mgw",
+    "Professor": "JaeSeanDeal Nye",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUSC-372g",
+    "Professor": "Lisa Vest",
+    "Category": "A"
+  },
+  {
+    "ClssID": "MUSC-374g",
+    "Professor": "Joanna Demers",
+    "Category": "A"
+  },
+  {
+    "ClssID": "THTR-196g",
+    "Professor": "Laurie Fisher",
+    "Category": "A"
+  },
+  {
+    "ClssID": "THTR-225g",
+    "Professor": "Melinda Finberg",
+    "Category": "A"
+  },
+  {
+    "ClssID": "AHIS-100g",
+    "Professor": "Monica Bravo",
+    "Category": "B"
+  },
+  {
+    "ClssID": "AMST-150gw",
+    "Professor": "Viet Nguyen",
+    "Category": "B"
+  },
+  {
+    "ClssID": "AMST-205g",
+    "Professor": "Joshua Mitchell",
+    "Category": "B"
+  },
+  {
+    "ClssID": "AMST-206mg",
+    "Professor": "Rick Berg",
+    "Category": "B"
+  },
+  {
+    "ClssID": "AMST-301gp",
+    "Professor": "Thomas Gustafson",
+    "Category": "B"
+  },
+  {
+    "ClssID": "CLAS-150gp",
+    "Professor": "Lucas Herchenroeder",
+    "Category": "B"
+  },
+  {
+    "ClssID": "CLAS-320mgp",
+    "Professor": "Daniel Richter",
+    "Category": "B"
+  },
+  {
+    "ClssID": "COLT-250g",
+    "Professor": "Roberto Diaz",
+    "Category": "B"
+  },
+  {
+    "ClssID": "COLT-264gp",
+    "Professor": "Jason Webb",
+    "Category": "B"
+  },
+  {
+    "ClssID": "COLT-374mg",
+    "Professor": "Margaret Rosenthal",
+    "Category": "B"
+  },
+  {
+    "ClssID": "COLT-382gw",
+    "Professor": "Jason Webb",
+    "Category": "B"
+  },
+  {
+    "ClssID": "CORE-101g",
+    "Professor": "Anthony Kemp",
+    "Category": "B"
+  },
+  {
+    "ClssID": "CRIT-160g",
+    "Professor": "Amelia Jones",
+    "Category": "B"
+  },
+  {
+    "ClssID": "CRIT-350gw",
+    "Professor": " ",
+    "Category": "B"
+  },
+  {
+    "ClssID": "CTCS-150gw",
+    "Professor": " ",
+    "Category": "B"
+  },
+  {
+    "ClssID": "DANC-342gp",
+    "Professor": "Alison D'Amato",
+    "Category": "B"
+  },
+  {
+    "ClssID": "EALC-342gp",
+    "Professor": "David Bialock",
+    "Category": "B"
+  },
+  {
+    "ClssID": "EALC-344gp",
+    "Professor": "Sunyoung Park",
+    "Category": "B"
+  },
+  {
+    "ClssID": "EALC-358g",
+    "Professor": "Brian Bernards",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-174g",
+    "Professor": "Thomas Gustafson",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-176g",
+    "Professor": "Rick Berg",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-176g",
+    "Professor": " ",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-230g",
+    "Professor": "Thea Tomaini",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-261g",
+    "Professor": "Thea Tomaini",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-262g",
+    "Professor": "Beatrice Sanford Russell",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-263g",
+    "Professor": "David Treuer",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-297g",
+    "Professor": "Christopher Freeman",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-299g",
+    "Professor": "Christopher Freeman",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-333g",
+    "Professor": "Ashley Cohen",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-352g",
+    "Professor": "Andrew Chater",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-355g",
+    "Professor": "Rebecca Lemon",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-362g",
+    "Professor": "Anna Journey",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-363g",
+    "Professor": "Brighde Mullins",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-373g",
+    "Professor": "Jonathan Leal",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ENGL-376g",
+    "Professor": "MG Lord",
+    "Category": "B"
+  },
+  {
+    "ClssID": "FREN-307g",
+    "Professor": "Guilan Siassi",
+    "Category": "B"
+  },
+  {
+    "ClssID": "FREN-375mgw",
+    "Professor": "Julie Van Dam",
+    "Category": "B"
+  },
+  {
+    "ClssID": "GESM-120g",
+    "Professor": "Lori Mesrobian",
+    "Category": "B"
+  },
+  {
+    "ClssID": "GESM-120g",
+    "Professor": "Steven Gonzalez",
+    "Category": "B"
+  },
+  {
+    "ClssID": "GESM-121g",
+    "Professor": "Amy Schroeder",
+    "Category": "B"
+  },
+  {
+    "ClssID": "HIST-103g",
+    "Professor": "Karin Amundsen",
+    "Category": "B"
+  },
+  {
+    "ClssID": "HIST-106g",
+    "Professor": "Joshua Goldstein",
+    "Category": "B"
+  },
+  {
+    "ClssID": "HIST-108g",
+    "Professor": "Ketaki Pant",
+    "Category": "B"
+  },
+  {
+    "ClssID": "HIST-245mgp",
+    "Professor": "Alice Echols",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ITAL-300g",
+    "Professor": "Gian-Maria Annovi",
+    "Category": "B"
+  },
+  {
+    "ClssID": "JS-100gp",
+    "Professor": "LeahJoshuaHochman Garroway",
+    "Category": "B"
+  },
+  {
+    "ClssID": "JS-258gp",
+    "Professor": "Leah Hochman",
+    "Category": "B"
+  },
+  {
+    "ClssID": "JS-315g",
+    "Professor": "LeahBenjaminHochman Ratskoff",
+    "Category": "B"
+  },
+  {
+    "ClssID": "JS-370gp",
+    "Professor": "LeahKristineHochman Garroway",
+    "Category": "B"
+  },
+  {
+    "ClssID": "PHIL-166gw",
+    "Professor": "Jacob Ross",
+    "Category": "B"
+  },
+  {
+    "ClssID": "PHIL-168g",
+    "Professor": "Edwin McCann",
+    "Category": "B"
+  },
+  {
+    "ClssID": "PHIL-174gw",
+    "Professor": "Jonathan Quong",
+    "Category": "B"
+  },
+  {
+    "ClssID": "PHIL-236g",
+    "Professor": "Andrew Bacon",
+    "Category": "B"
+  },
+  {
+    "ClssID": "PHIL-265g",
+    "Professor": "Jacob Ross",
+    "Category": "B"
+  },
+  {
+    "ClssID": "PHIL-288gp",
+    "Professor": "Edwin McCann",
+    "Category": "B"
+  },
+  {
+    "ClssID": "REL-135g",
+    "Professor": "Jessica(Xiaomin) Zu",
+    "Category": "B"
+  },
+  {
+    "ClssID": "REL-141g",
+    "Professor": "Varun Soni",
+    "Category": "B"
+  },
+  {
+    "ClssID": "REL-147g",
+    "Professor": "Diane Winston",
+    "Category": "B"
+  },
+  {
+    "ClssID": "REL-334g",
+    "Professor": "Kelsey Moss",
+    "Category": "B"
+  },
+  {
+    "ClssID": "REL-342g",
+    "Professor": "Jessica(Xiaomin) Zu",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SLL-110g",
+    "Professor": "Peter Winsky",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SLL-302g",
+    "Professor": "Thomas Seifrid",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SLL-344g",
+    "Professor": "Peter Winsky",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SPAN-380g",
+    "Professor": "Samuel Steinberg",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SWMS-212gp",
+    "Professor": "AE Stevenson",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SWMS-212gp",
+    "Professor": " ",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SWMS-219gp",
+    "Professor": "Diana Blaine",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SWMS-221g",
+    "Professor": "Atia Sattar",
+    "Category": "B"
+  },
+  {
+    "ClssID": "SWMS-227gp",
+    "Professor": "Diana Blaine",
+    "Category": "B"
+  },
+  {
+    "ClssID": "ACAD-181g",
+    "Professor": "Elizabeth Amini",
+    "Category": "C"
+  },
+  {
+    "ClssID": "AMST-101mgw",
+    "Professor": "Juan De Lara",
+    "Category": "C"
+  },
+  {
+    "ClssID": "AMST-135mgw",
+    "Professor": "Alicia Chavez",
+    "Category": "C"
+  },
+  {
+    "ClssID": "AMST-200mg",
+    "Professor": "Alicia Chavez",
+    "Category": "C"
+  },
+  {
+    "ClssID": "AMST-204g",
+    "Professor": "Chris Finley",
+    "Category": "C"
+  },
+  {
+    "ClssID": "AMST-230g",
+    "Professor": "Oneka LaBennett",
+    "Category": "C"
+  },
+  {
+    "ClssID": "AMST-250mgw",
+    "Professor": "Jackie Wang",
+    "Category": "C"
+  },
+  {
+    "ClssID": "AMST-285mg",
+    "Professor": "Oneka LaBennett",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ANTH-202g",
+    "Professor": "Tracie Mayfield",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ANTH-205g",
+    "Professor": "Tok Thompson",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ANTH-263g",
+    "Professor": "Sandy Wenger",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ANTH-301g",
+    "Professor": "Erin Moore",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ANTH-315gw",
+    "Professor": "Tok Thompson",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ANTH-333mg",
+    "Professor": "Tok Thompson",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ANTH-371mg",
+    "Professor": "Thomas Ward",
+    "Category": "C"
+  },
+  {
+    "ClssID": "CLAS-349gp",
+    "Professor": "Brandon Bourgeois",
+    "Category": "C"
+  },
+  {
+    "ClssID": "CORE-104gw",
+    "Professor": "Natania Meeker",
+    "Category": "C"
+  },
+  {
+    "ClssID": "EASC-160mgp",
+    "Professor": "Li-Ping Chen",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ENST-100g",
+    "Professor": "Scott Applebaum",
+    "Category": "C"
+  },
+  {
+    "ClssID": "ENST-150xg",
+    "Professor": "Jill Sohm",
+    "Category": "C"
+  },
+  {
+    "ClssID": "GERO-320g",
+    "Professor": "Paul Nash",
+    "Category": "C"
+  },
+  {
+    "ClssID": "GESM-130g",
+    "Professor": "Cody Brown",
+    "Category": "C"
+  },
+  {
+    "ClssID": "GESM-130g",
+    "Professor": "Jenny Chio",
+    "Category": "C"
+  },
+  {
+    "ClssID": "GESM-131g",
+    "Professor": "Emma Aguila Vega",
+    "Category": "C"
+  },
+  {
+    "ClssID": "HIST-101gp",
+    "Professor": "Maya Maskarinec",
+    "Category": "C"
+  },
+  {
+    "ClssID": "HIST-211gp",
+    "Professor": "George Sanchez",
+    "Category": "C"
+  },
+  {
+    "ClssID": "HIST-225g",
+    "Professor": "Steve Ross",
+    "Category": "C"
+  },
+  {
+    "ClssID": "HP-365mgw",
+    "Professor": "Heather Wipfli",
+    "Category": "C"
+  },
+  {
+    "ClssID": "IR-101xgw",
+    "Professor": "Wayne Sandholtz",
+    "Category": "C"
+  },
+  {
+    "ClssID": "IR-210gw",
+    "Professor": "Jonathan Markowitz",
+    "Category": "C"
+  },
+  {
+    "ClssID": "JS-180gp",
+    "Professor": "Reuven Firestone",
+    "Category": "C"
+  },
+  {
+    "ClssID": "JS-211gw",
+    "Professor": "AlexiaWolfOrengoGreen Gruner",
+    "Category": "C"
+  },
+  {
+    "ClssID": "LING-115gw",
+    "Professor": "Andrew Simpson",
+    "Category": "C"
+  },
+  {
+    "ClssID": "MOR-385mg",
+    "Professor": "Paul Adler",
+    "Category": "C"
+  },
+  {
+    "ClssID": "POSC-110g",
+    "Professor": "Anthony Kammas",
+    "Category": "C"
+  },
+  {
+    "ClssID": "POSC-130g",
+    "Professor": "Jeb Barnes",
+    "Category": "C"
+  },
+  {
+    "ClssID": "POSC-248gw",
+    "Professor": "Steve Swerdlow",
+    "Category": "C"
+  },
+  {
+    "ClssID": "PPD-240g",
+    "Professor": "William Resh",
+    "Category": "C"
+  },
+  {
+    "ClssID": "PPD-245g",
+    "Professor": "Dowell Myers",
+    "Category": "C"
+  },
+  {
+    "ClssID": "PPD-245g",
+    "Professor": "Elizabeth Currid-Halkett",
+    "Category": "C"
+  },
+  {
+    "ClssID": "PSYC-353g",
+    "Professor": "Miranda Barone",
+    "Category": "C"
+  },
+  {
+    "ClssID": "PSYC-367g",
+    "Professor": "Bruna Martins-Klein",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SOCI-155mg",
+    "Professor": "Jody Agius Vallejo",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SOCI-169mg",
+    "Professor": "Juliana Mc Gene",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SOCI-200mg",
+    "Professor": " ",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SOCI-210g",
+    "Professor": "Dan Lainer-Vos",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SOCI-235g",
+    "Professor": "Deisy Del Real",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SOCI-242g",
+    "Professor": "Juliana Mc Gene",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SOCI-270g",
+    "Professor": " ",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SSCI-165Lgw",
+    "Professor": "Robert Vos",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SSCI-214g",
+    "Professor": "Diana Ter-Ghazaryan",
+    "Category": "C"
+  },
+  {
+    "ClssID": "SWMS-106g",
+    "Professor": "Broderick Leaks",
+    "Category": "C"
+  },
+  {
+    "ClssID": "BISC-102Lxg",
+    "Professor": "DaleCarlyKiefer Kenkel",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-103Lxg",
+    "Professor": "TrondJohnSigurdsen Heidelberg",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-110g",
+    "Professor": "Matthew Michael",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-115Lxg",
+    "Professor": "Grayson Jaggers",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-120Lg",
+    "Professor": "Raffaella Ghittoni",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-150Lxg",
+    "Professor": "NancyRaffaellaCastro Ghittoni",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-180Lxg",
+    "Professor": "Trond Sigurdsen",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-220Lg",
+    "Professor": "AlanAlbertWatts Herrera",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-221Lg",
+    "Professor": "BruceDavidHerring McKemy",
+    "Category": "D"
+  },
+  {
+    "ClssID": "BISC-230Lxg",
+    "Professor": "Rita Barakat",
+    "Category": "D"
+  },
+  {
+    "ClssID": "CORE-103g",
+    "Professor": "Peter Westwick",
+    "Category": "D"
+  },
+  {
+    "ClssID": "GEOL-126Lg",
+    "Professor": "Frank Corsetti",
+    "Category": "D"
+  },
+  {
+    "ClssID": "GEOL-126Lg",
+    "Professor": " ",
+    "Category": "D"
+  },
+  {
+    "ClssID": "GERO-315g",
+    "Professor": "TaraJohnMastro Walsh",
+    "Category": "D"
+  },
+  {
+    "ClssID": "GESM-140g",
+    "Professor": "Laura Baker",
+    "Category": "D"
+  },
+  {
+    "ClssID": "GESM-141g",
+    "Professor": "Min-Kyoung Rhee",
+    "Category": "D"
+  },
+  {
+    "ClssID": "HBIO-200Lg",
+    "Professor": "Maureen McCarthy",
+    "Category": "D"
+  },
+  {
+    "ClssID": "HBIO-202g",
+    "Professor": "Helen(Eleni) Soultanakis",
+    "Category": "D"
+  },
+  {
+    "ClssID": "HBIO-205Lxg",
+    "Professor": "Bob Girandola",
+    "Category": "D"
+  },
+  {
+    "ClssID": "LING-110g",
+    "Professor": " ",
+    "Category": "D"
+  },
+  {
+    "ClssID": "PSYC-100Lg",
+    "Professor": "Patricia George",
+    "Category": "D"
+  },
+  {
+    "ClssID": "PSYC-165Lg",
+    "Professor": "John Monterosso",
+    "Category": "D"
+  },
+  {
+    "ClssID": "PSYC-215Lg",
+    "Professor": "AssalBeatrizHabibi Ilari",
+    "Category": "D"
+  },
+  {
+    "ClssID": "PSYC-215Lg",
+    "Professor": " ",
+    "Category": "D"
+  },
+  {
+    "ClssID": "PSYC-339Lg",
+    "Professor": "Clayton Stephenson",
+    "Category": "D"
+  },
+  {
+    "ClssID": "QBIO-110g",
+    "Professor": "Vsevolod Katritch",
+    "Category": "D"
+  },
+  {
+    "ClssID": "ASTR-100Lxg",
+    "Professor": " ",
+    "Category": "E"
+  },
+  {
+    "ClssID": "ASTR-200Lg",
+    "Professor": "Vahe Peroomian",
+    "Category": "E"
+  },
+  {
+    "ClssID": "CHEM-105ALg",
+    "Professor": " ",
+    "Category": "E"
+  },
+  {
+    "ClssID": "CHEM-205Lxg",
+    "Professor": "Thomas Bertolini",
+    "Category": "E"
+  },
+  {
+    "ClssID": "GEOL-105Lg",
+    "Professor": "Heidi Houston",
+    "Category": "E"
+  },
+  {
+    "ClssID": "GEOL-107Lg",
+    "Professor": "William Berelson",
+    "Category": "E"
+  },
+  {
+    "ClssID": "GEOL-108Lg",
+    "Professor": "John Vidale",
+    "Category": "E"
+  },
+  {
+    "ClssID": "GEOL-150Lg",
+    "Professor": "Julien Emile-Geay",
+    "Category": "E"
+  },
+  {
+    "ClssID": "GEOL-241Lg",
+    "Professor": "VictoriaJoshPetryshyn West",
+    "Category": "E"
+  },
+  {
+    "ClssID": "GEOL-241Lg",
+    "Professor": " ",
+    "Category": "E"
+  },
+  {
+    "ClssID": "GESM-150Lg",
+    "Professor": "Aaron Wirthwein",
+    "Category": "E"
+  },
+  {
+    "ClssID": "PHYS-100Lxg",
+    "Professor": "Vitaly Kresin",
+    "Category": "E"
+  },
+  {
+    "ClssID": "PHYS-125Lg",
+    "Professor": " ",
+    "Category": "E"
+  },
+  {
+    "ClssID": "PHYS-135ALg",
+    "Professor": "Hamid Chabok",
+    "Category": "E"
+  },
+  {
+    "ClssID": "PHYS-151Lg",
+    "Professor": "Scott Macdonald",
+    "Category": "E"
+  },
+  {
+    "ClssID": "PHYS-161Lg",
+    "Professor": "Scott Macdonald",
+    "Category": "E"
+  },
+  {
+    "ClssID": "PHYS-171Lg",
+    "Professor": "Geraldine Peters",
+    "Category": "E"
+  },
+  {
+    "ClssID": "PHYS-200Lxg",
+    "Professor": "Peter Chung",
+    "Category": "E"
+  },
+  {
+    "ClssID": "ARCH-213Bg",
+    "Professor": "JeffBhavnaGuh Sharma",
+    "Category": "F"
+  },
+  {
+    "ClssID": "BUAD-310g",
+    "Professor": "Paromita Dubey",
+    "Category": "F"
+  },
+  {
+    "ClssID": "BUAD-312g",
+    "Professor": "Feng Chen",
+    "Category": "F"
+  },
+  {
+    "ClssID": "COMM-301Lg",
+    "Professor": "Robin Stevens",
+    "Category": "F"
+  },
+  {
+    "ClssID": "ECON-203g",
+    "Professor": "Lodovico Pizzati",
+    "Category": "F"
+  },
+  {
+    "ClssID": "ECON-205g",
+    "Professor": "Brijesh Pinto",
+    "Category": "F"
+  },
+  {
+    "ClssID": "GESM-160g",
+    "Professor": "Gary Rosen",
+    "Category": "F"
+  },
+  {
+    "ClssID": "GESM-161g",
+    "Professor": "Francis Pereira",
+    "Category": "F"
+  },
+  {
+    "ClssID": "HIST-393g",
+    "Professor": "Lon Kurashige",
+    "Category": "F"
+  },
+  {
+    "ClssID": "HP-340Lg",
+    "Professor": "Khandaker Islam",
+    "Category": "F"
+  },
+  {
+    "ClssID": "IR-211g",
+    "Professor": "Megan Becker",
+    "Category": "F"
+  },
+  {
+    "ClssID": "LING-210g",
+    "Professor": "Sandra Disner",
+    "Category": "F"
+  },
+  {
+    "ClssID": "MATH-108g",
+    "Professor": "Spencer Gerhardt",
+    "Category": "F"
+  },
+  {
+    "ClssID": "MATH-114xg",
+    "Professor": "Danjoseph Quijada",
+    "Category": "F"
+  },
+  {
+    "ClssID": "MATH-117g",
+    "Professor": "Henry Tucker",
+    "Category": "F"
+  },
+  {
+    "ClssID": "MATH-118xg",
+    "Professor": "Felicia Tabing",
+    "Category": "F"
+  },
+  {
+    "ClssID": "MATH-125g",
+    "Professor": "Jared Warner",
+    "Category": "F"
+  },
+  {
+    "ClssID": "MATH-125g",
+    "Professor": " ",
+    "Category": "F"
+  },
+  {
+    "ClssID": "MATH-126g",
+    "Professor": "Yang Qiu",
+    "Category": "F"
+  },
+  {
+    "ClssID": "MATH-226g",
+    "Professor": "Paul Tokorcheck",
+    "Category": "F"
+  },
+  {
+    "ClssID": "PHIL-252g",
+    "Professor": "Gabriel Uzquiano",
+    "Category": "F"
+  },
+  {
+    "ClssID": "PSYC-274Lg",
+    "Professor": "Rand Wilcox",
+    "Category": "F"
+  },
+  {
+    "ClssID": "QBIO-305g",
+    "Professor": "Peter Calabrese",
+    "Category": "F"
+  },
+  {
+    "ClssID": "SOCI-314Lg",
+    "Professor": "Tim Biblarz",
+    "Category": "F"
+  },
+  {
+    "ClssID": "SSCI-135g",
+    "Professor": "Leilei Duan",
+    "Category": "F"
+  },
+  {
+    "ClssID": "AMST-101mgw",
+    "Professor": "Juan De Lara",
+    "Category": "G"
+  },
+  {
+    "ClssID": "AMST-135mgw",
+    "Professor": "Alicia Chavez",
+    "Category": "G"
+  },
+  {
+    "ClssID": "AMST-150gw",
+    "Professor": "Viet Nguyen",
+    "Category": "G"
+  },
+  {
+    "ClssID": "AMST-250mgw",
+    "Professor": "Jackie Wang",
+    "Category": "G"
+  },
+  {
+    "ClssID": "AMST-274mw",
+    "Professor": "Kara Keeling",
+    "Category": "G"
+  },
+  {
+    "ClssID": "AMST-325gw",
+    "Professor": "Evelyn Alsultany",
+    "Category": "G"
+  },
+  {
+    "ClssID": "ANTH-315gw",
+    "Professor": "Tok Thompson",
+    "Category": "G"
+  },
+  {
+    "ClssID": "COLT-382gw",
+    "Professor": "Jason Webb",
+    "Category": "G"
+  },
+  {
+    "ClssID": "COLT-395w",
+    "Professor": "Antonia Szabari",
+    "Category": "G"
+  },
+  {
+    "ClssID": "COMM-324mw",
+    "Professor": "Carmen Lee",
+    "Category": "G"
+  },
+  {
+    "ClssID": "CORE-104gw",
+    "Professor": "Natania Meeker",
+    "Category": "G"
+  },
+  {
+    "ClssID": "CRIT-350gw",
+    "Professor": " ",
+    "Category": "G"
+  },
+  {
+    "ClssID": "CTCS-150gw",
+    "Professor": " ",
+    "Category": "G"
+  },
+  {
+    "ClssID": "DANC-312gw",
+    "Professor": "d.Sabela Grimes",
+    "Category": "G"
+  },
+  {
+    "ClssID": "DANC-333gw",
+    "Professor": "Jason Rodgers",
+    "Category": "G"
+  },
+  {
+    "ClssID": "FREN-375mgw",
+    "Professor": "Julie Van Dam",
+    "Category": "G"
+  },
+  {
+    "ClssID": "HP-365mgw",
+    "Professor": "Heather Wipfli",
+    "Category": "G"
+  },
+  {
+    "ClssID": "IR-101xgw",
+    "Professor": "Wayne Sandholtz",
+    "Category": "G"
+  },
+  {
+    "ClssID": "IR-210gw",
+    "Professor": "Jonathan Markowitz",
+    "Category": "G"
+  },
+  {
+    "ClssID": "IR-382w",
+    "Professor": "Han-Hui Hsieh",
+    "Category": "G"
+  },
+  {
+    "ClssID": "JOUR-200w",
+    "Professor": "Geoffrey Cowan",
+    "Category": "G"
+  },
+  {
+    "ClssID": "JS-211gw",
+    "Professor": "AlexiaWolfOrengoGreen Gruner",
+    "Category": "G"
+  },
+  {
+    "ClssID": "LAW-101w",
+    "Professor": "Joseph Darrow",
+    "Category": "G"
+  },
+  {
+    "ClssID": "LAW-101w",
+    "Professor": "Joseph Darrow",
+    "Category": "G"
+  },
+  {
+    "ClssID": "LAW-250w",
+    "Professor": "Zsofia Szojka",
+    "Category": "G"
+  },
+  {
+    "ClssID": "LING-115gw",
+    "Professor": "Andrew Simpson",
+    "Category": "G"
+  },
+  {
+    "ClssID": "MDES-201w",
+    "Professor": "Onursal Erol",
+    "Category": "G"
+  },
+  {
+    "ClssID": "MUSC-102gw",
+    "Professor": "Leon Garcia Corona",
+    "Category": "G"
+  },
+  {
+    "ClssID": "MUSC-200mgw",
+    "Professor": "Karen Parks",
+    "Category": "G"
+  },
+  {
+    "ClssID": "MUSC-250mgw",
+    "Professor": "Ron Mc Curdy",
+    "Category": "G"
+  },
+  {
+    "ClssID": "MUSC-320mgw",
+    "Professor": "JaeSeanDeal Nye",
+    "Category": "G"
+  },
+  {
+    "ClssID": "PHIL-166gw",
+    "Professor": "Jacob Ross",
+    "Category": "G"
+  },
+  {
+    "ClssID": "PHIL-174gw",
+    "Professor": "Jonathan Quong",
+    "Category": "G"
+  },
+  {
+    "ClssID": "POSC-248gw",
+    "Professor": "Steve Swerdlow",
+    "Category": "G"
+  },
+  {
+    "ClssID": "PUBD-369w",
+    "Professor": "Nick Cull",
+    "Category": "G"
+  },
+  {
+    "ClssID": "RXRS-413w",
+    "Professor": "DarylEunjooDavies Pacifici",
+    "Category": "G"
+  },
+  {
+    "ClssID": "SSCI-165Lgw",
+    "Professor": "Robert Vos",
+    "Category": "G"
+  },
+  {
+    "ClssID": "THTR-476mw",
+    "Professor": "Anita Dashiell-Sparks",
+    "Category": "G"
+  },
+  {
+    "ClssID": "THTR-488mw",
+    "Professor": "Brent Blair",
+    "Category": "G"
+  },
+  {
+    "ClssID": "AHIS-121gp",
+    "Professor": "Samantha Burton",
+    "Category": "H"
+  },
+  {
+    "ClssID": "AHIS-125gp",
+    "Professor": "Yoonah Hwang",
+    "Category": "H"
+  },
+  {
+    "ClssID": "AHIS-128gp",
+    "Professor": "Daniela Bleichmar",
+    "Category": "H"
+  },
+  {
+    "ClssID": "AMST-301gp",
+    "Professor": "Thomas Gustafson",
+    "Category": "H"
+  },
+  {
+    "ClssID": "CLAS-150gp",
+    "Professor": "Lucas Herchenroeder",
+    "Category": "H"
+  },
+  {
+    "ClssID": "CLAS-320mgp",
+    "Professor": "Daniel Richter",
+    "Category": "H"
+  },
+  {
+    "ClssID": "CLAS-349gp",
+    "Professor": "Brandon Bourgeois",
+    "Category": "H"
+  },
+  {
+    "ClssID": "COLT-264gp",
+    "Professor": "Jason Webb",
+    "Category": "H"
+  },
+  {
+    "ClssID": "CRIT-150gp",
+    "Professor": " ",
+    "Category": "H"
+  },
+  {
+    "ClssID": "DANC-342gp",
+    "Professor": "Alison D'Amato",
+    "Category": "H"
+  },
+  {
+    "ClssID": "EALC-342gp",
+    "Professor": "David Bialock",
+    "Category": "H"
+  },
+  {
+    "ClssID": "EALC-344gp",
+    "Professor": "Sunyoung Park",
+    "Category": "H"
+  },
+  {
+    "ClssID": "EASC-160mgp",
+    "Professor": "Li-Ping Chen",
+    "Category": "H"
+  },
+  {
+    "ClssID": "HIST-101gp",
+    "Professor": "Maya Maskarinec",
+    "Category": "H"
+  },
+  {
+    "ClssID": "HIST-211gp",
+    "Professor": "George Sanchez",
+    "Category": "H"
+  },
+  {
+    "ClssID": "HIST-245mgp",
+    "Professor": "Alice Echols",
+    "Category": "H"
+  },
+  {
+    "ClssID": "JS-100gp",
+    "Professor": "LeahJoshuaHochman Garroway",
+    "Category": "H"
+  },
+  {
+    "ClssID": "JS-180gp",
+    "Professor": "Reuven Firestone",
+    "Category": "H"
+  },
+  {
+    "ClssID": "JS-258gp",
+    "Professor": "Leah Hochman",
+    "Category": "H"
+  },
+  {
+    "ClssID": "JS-370gp",
+    "Professor": "LeahKristineHochman Garroway",
+    "Category": "H"
+  },
+  {
+    "ClssID": "LAW-210p",
+    "Professor": "Donald Scotten",
+    "Category": "H"
+  },
+  {
+    "ClssID": "LAW-275p",
+    "Professor": "Stephen Rich",
+    "Category": "H"
+  },
+  {
+    "ClssID": "MUSC-115gp",
+    "Professor": "Rotem Gilbert",
+    "Category": "H"
+  },
+  {
+    "ClssID": "PHIL-288gp",
+    "Professor": "Edwin McCann",
+    "Category": "H"
+  },
+  {
+    "ClssID": "REL-146gp",
+    "Professor": "Arjun Nair",
+    "Category": "H"
+  },
+  {
+    "ClssID": "RXRS-201p",
+    "Professor": "DarylTerryDavies Church",
+    "Category": "H"
+  },
+  {
+    "ClssID": "SWMS-212gp",
+    "Professor": "AE Stevenson",
+    "Category": "H"
+  },
+  {
+    "ClssID": "SWMS-212gp",
+    "Professor": " ",
+    "Category": "H"
+  },
+  {
+    "ClssID": "SWMS-219gp",
+    "Professor": "Diana Blaine",
+    "Category": "H"
+  },
+  {
+    "ClssID": "SWMS-227gp",
+    "Professor": "Diana Blaine",
+    "Category": "H"
+  }
+]
