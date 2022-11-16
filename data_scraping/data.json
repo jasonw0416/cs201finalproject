@@ -1,0 +1,26 @@
+[
+  {
+    "ClssID": "ACAD-309g",
+    "Professor": "Doug Thomas",
+    "Category": "A",
+    "Rating": "3.9",
+    "Difficulty": "2.8",
+    "%_retake": "78%"
+  },
+  {
+    "ClssID": "ACAD-324g",
+    "Professor": "Lisa Krohn",
+    "Category": "A",
+    "Rating": "2.3",
+    "Difficulty": "2.3",
+    "%_retake": "25%"
+  },
+  {
+    "ClssID": "CLAS-150gp",
+    "Professor": "Lucas Herchenroeder",
+    "Category": "B",
+    "Rating": "3.5",
+    "Difficulty": "3.6",
+    "%_retake": "57%"
+  }
+]
