@@ -12,8 +12,8 @@ CREATE TABLE credentials (
 	userID int(11) primary key not null auto_increment, 
     Username varchar(45) not null unique, 
     Password varchar(45) not null, 
-    schedID int(11), 
-    FOREIGN KEY fk1(schedID) REFERENCES schedule(schedID)
+    resultsID int(11), 
+    FOREIGN KEY fk1(resultsID) REFERENCES results(resultsID)
 );
 
 CREATE TABLE professors (
@@ -34,5 +34,5 @@ CREATE TABLE courses (
     friday TINYINT, 
     StartTime int not null, 
     EndTime int not null,
-    FOREIGN KEY fk3(profID) REFERENCES professors(profID)
+    FOREIGN KEY fk2(profID) REFERENCES professors(profID)
 );
