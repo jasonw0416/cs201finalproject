@@ -24,8 +24,9 @@ CREATE TABLE professors (
 
 CREATE TABLE courses (
 	courseID int(11) primary key not null auto_increment, 
+    CourseIDString varchar(255) not null,
     profID int(11) not null, 
-    Course_Name varchar(45) not null, 
+    Course_Name varchar(2000) not null, 
     GE_Category varchar(2),
     monday TINYINT, 
     tuesday TINYINT, 
