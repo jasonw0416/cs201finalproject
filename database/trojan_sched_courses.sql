@@ -52,7 +52,7 @@ INSERT INTO `courses` VALUES (465,2620928,'Dummy','A',0,1,0,1,1,17,20,'10257R','
 /*!40000 ALTER TABLE `courses` ENABLE KEYS */;
 SET SQL_SAFE_UPDATES = 0;
 
-UPDATE mydb.courses SET friday=0 WHERE thursday =1 AND tuesday = 1;
+UPDATE `courses` SET friday=0 WHERE thursday =1 AND tuesday = 1;
 
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
