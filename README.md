@@ -1,31 +1,17 @@
 # cs201finalproject
 
-## Tutorial for Java Spring + React + MySQL Fullstack Development Project
+## Establishing Database
 
-Watch the following video for understanding of what we will do for the next few weeks:
+You must run database/final project.sql to create the table. Afterwards, you must run trojan_sched_resuls.sql, trojan_sched_courses.sql, trojan_sched_credentials.sql, and trojan_sched_professors.sql to insert the data into the table.
 
-https://www.youtube.com/watch?v=O_XL9oQ1_To
+## Initializing the Environment of the Exported Eclipse Project
 
-## General Folder Structure
+Import CSCI201_FINAL.zip like how we were taught in class CSCI 201. Afterwards, locate to src/main/java/JDBCHandler.java and edit SQL_USER, SQL_PASSWORD, and SQL_CONNECTION to match your own MySQL information. The name of schema and port number may need to be changed as well (the default name of schema is "mydb" and port number is 3306). 
 
-The backend and database programmings will be done in "schedulersystem" folder with Java Spring Boot Framework.
+## Running the Project
 
-I have added MySQL dependencies, so managing database will be easy after we create the necessary classes and tables during Design Doc Meeting
+Run on the Tomcat server. 
 
-The frontend programmings will be done in "schedulerfrontend" folder with ReactJS. We can add CSS Tailwind or other frameworks later in this folder to make websites pretty.
+## Other Files
 
-One thing to watch out is whenever we add new depedencies, libraries, packages, frameworks, etc., please write it down somewhere and let us know. These files will not be pushed to the GitHub most of the times because of .gitignore file, and it is also important that we all have same version for these packages and stuff.
-
-At the moment, we are using almost all the recent versions for everything: openjdk-17 (Java 17), node v17.5.0 (this may later change to 16), ...
-
-## Alternative to Java Sprint Boot + React + MySQL
-
-Alternative idea that I have is MySQL + React (or it can be normal HTML/CSS/JS) + WebSocket + Java (<-- normal one we learned in class)
-
-In this option, creating connection between client and server will be more confusing, and more programmings may be required in the server. However, the implementation in Java may be more familiar to what we have done in class, which is better.
-
-This alternative option is NO LONGER POSSIBLE. JavaScript uses Websocket, and Java ServerSocket that we learned uses TCP Socket. These two sockets cannot communicate with each other, and there is no TCP Socket built with JavaScript at this moment. Therefore, we must go with Java Spring Boot for the easiest solution.
-
-## API
-
-Anthony: We will also use this API: https://github.com/tisuela/ratemyprof-api
+There are multiple other files in the github repository that is already inside the CSCI_FINAL.zip. In addition, there are web scrabing codes in this repository as well. 
